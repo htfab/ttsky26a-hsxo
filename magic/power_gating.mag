@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1714587912
+timestamp 1778446995
 << dnwell >>
 rect -1970 -7210 5210 4580
 rect -2520 -14610 2220 -9310
@@ -79,7 +79,6 @@ rect 2209 -9347 2243 -9321
 rect 2209 -14599 2243 -14573
 rect -2543 -14633 -2483 -14599
 rect 2183 -14633 2243 -14599
-rect 4587 -15047 4993 -14641
 << metal1 >>
 rect 2520 6340 3320 6346
 rect 3320 5540 5794 6340
@@ -266,7 +265,7 @@ rect 6341 -15044 6759 -15043
 rect 4574 -15050 4986 -15049
 rect 4579 -15055 4981 -15050
 use power_gating_ad  power_gating_ad_1
-timestamp 1713813547
+timestamp 1778265678
 transform 1 0 -2356 0 1 896
 box -1594 -8666 8950 3936
 use power_gating_dd  power_gating_dd_0

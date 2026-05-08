@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1714659811
+timestamp 1778265678
 << mvpsubdiff >>
 rect -87 15225 -63 15259
 rect 7043 15225 7067 15259
@@ -488,7 +488,7 @@ rect 27634 -4705 27635 -4505
 rect 27845 -4705 27846 -4505
 rect 27634 -4706 27846 -4705
 use power_gating  power_gating_0
-timestamp 1714587912
+timestamp 1778265678
 transform 1 0 1870 0 1 10256
 box -3950 -15173 6766 6365
 use schmitt_trigger_pullmid  schmitt_trigger_pullmid_0
@@ -500,7 +500,7 @@ timestamp 1713813547
 transform 1 0 26106 0 1 5700
 box -1686 -9960 1686 9960
 use vittoz_pierce_osc  vittoz_pierce_osc_0
-timestamp 1714592389
+timestamp 1778265678
 transform 1 0 10050 0 1 -2190
 box -340 -3540 14370 18841
 << labels >>

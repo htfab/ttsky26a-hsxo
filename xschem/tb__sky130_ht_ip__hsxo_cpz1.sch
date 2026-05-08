@@ -1,9 +1,9 @@
-v {xschem version=3.4.5 file_version=1.2
-}
+v {xschem version=3.4.8RC file_version=1.3}
 G {}
 K {}
 V {}
 S {}
+F {}
 E {}
 B 2 -390 -710 410 -310 {flags=graph
 y1=-0.56
@@ -19,8 +19,8 @@ divx=5
 subdivx=1
 xlabmag=1.0
 ylabmag=1.0
-node="x1.x1.aout
-x1.x1.ain
+node="x1.x1.x1.aout
+x1.x1.x1.ain
 dout
 xout"
 color="4 7 8 6"
@@ -75,7 +75,7 @@ C {devices/lab_pin.sym} 70 -270 0 0 {name=p23 sig_type=std_logic lab=AVDD}
 C {devices/code_shown.sym} -410 -240 0 0 {name=STIMULI only_toplevel=false value=".control
 set temp=25
 *save all
-save xout dout x1.x1.aout x1.x1.ain
+save xout dout x1.x1.x1.aout x1.x1.x1.ain
 tran 1n 3000u uic
 remzerovec
 write tb__sky130_ht_ip__hsxo_cpz1.raw

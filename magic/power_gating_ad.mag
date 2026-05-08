@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778263097
+timestamp 1778265678
 << nwell >>
 rect 490 2610 5770 2620
 rect 490 1830 1120 2610
@@ -691,39 +691,39 @@ rect 8150 -8090 8156 -7290
 rect -790 -8260 3770 -8090
 rect 7350 -8096 8150 -8090
 use level_shifter_ad  level_shifter_ad_0
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 140 0 1 2910
 box 880 -1970 2310 -210
 use level_shifter_ad  level_shifter_ad_1
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 3560 0 1 2910
 box 880 -1970 2310 -210
 use sky130_fd_pr__diode_pd2nw_11v0_K4SERG  sky130_fd_pr__diode_pd2nw_11v0_K4SERG_0
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 1373 0 1 -7147
 box -423 -423 423 423
 use sky130_fd_pr__diode_pw2nd_11v0_FT76RJ  sky130_fd_pr__diode_pw2nd_11v0_FT76RJ_0
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 2212 0 1 -7147
 box -217 -217 217 217
 use sky130_fd_pr__nfet_g5v0d10v5_CPEQJZ  sky130_fd_pr__nfet_g5v0d10v5_CPEQJZ_0
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 3641 0 1 -6862
 box -831 -658 831 658
 use sky130_fd_pr__nfet_g5v0d10v5_CPEQJZ  sky130_fd_pr__nfet_g5v0d10v5_CPEQJZ_1
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 5841 0 1 -6862
 box -831 -658 831 658
 use sky130_fd_pr__pfet_g5v0d10v5_KL7ZY6  sky130_fd_pr__pfet_g5v0d10v5_KL7ZY6_0
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 1671 0 1 -2563
 box -861 -697 861 697
 use sky130_fd_pr__pfet_g5v0d10v5_KL7ZY6  XM1
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 5801 0 1 -2563
 box -861 -697 861 697
 use sky130_fd_pr__pfet_g5v0d10v5_KL7ZY6  XM25
-timestamp 1778263097
+timestamp 1713804741
 transform 1 0 3631 0 1 -2563
 box -861 -697 861 697
 << labels >>
