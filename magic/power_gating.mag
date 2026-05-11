@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778446995
+timestamp 1778461737
 << dnwell >>
 rect -1970 -7210 5210 4580
 rect -2520 -14610 2220 -9310
@@ -273,11 +273,11 @@ timestamp 1713804741
 transform 1 0 -3664 0 1 -8010
 box 1304 -6360 6360 -1320
 use sky130_fd_pr__cap_mim_m3_1_MPZGNS  XC3
-timestamp 1713813547
+timestamp 1778461737
 transform 1 0 1296 0 1 -4550
 box -1686 -9960 1686 9960
 use sky130_fd_pr__cap_mim_m3_1_MPZGNS  XC4
-timestamp 1713813547
+timestamp 1778461737
 transform 1 0 4916 0 1 -4550
 box -1686 -9960 1686 9960
 << labels >>

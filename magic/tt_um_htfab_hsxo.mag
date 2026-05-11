@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778455494
+timestamp 1778461737
 << metal1 >>
 rect 0 44952 200 45152
 rect 28872 44952 29072 45152
@@ -869,7 +869,7 @@ rect 27234 21 27235 199
 rect 27413 21 27414 199
 rect 27234 0 27414 21
 use sky130_ht_ip__hsxo_cpz1  sky130_ht_ip__hsxo_cpz1_0
-timestamp 1778455494
+timestamp 1778461737
 transform 0 -1 19949 1 0 4162
 box -3162 -7320 32492 17749
 use tie_lows  tie_lows_0
