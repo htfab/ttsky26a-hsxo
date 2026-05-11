@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778461737
+timestamp 1778466375
 << dnwell >>
 rect 380 330 9870 15250
 rect 11130 4760 13440 15250
@@ -977,11 +977,11 @@ timestamp 1713747467
 transform 1 0 12285 0 1 11147
 box -545 -3497 545 3497
 use sky130_fd_pr__res_xhigh_po_0p35_86VAEW  XR1
-timestamp 1778461737
+timestamp 1778465818
 transform 1 0 1213 0 1 10770
 box -255 -1352 255 1352
 use sky130_fd_pr__res_xhigh_po_0p35_NH48NT  XR3
-timestamp 1778461737
+timestamp 1778465966
 transform 1 0 1213 0 1 8510
 box -255 -932 255 932
 << labels >>
@@ -1001,4 +1001,6 @@ flabel metal2 13566 -2990 14366 -2190 0 FreeSans 256 0 0 0 SG_AVSS
 port 7 nsew
 flabel metal1 9570 -3230 9770 -3030 0 FreeSans 256 0 0 0 EG_IBIAS
 port 5 nsew
+<< properties >>
+string MASKHINTS_HVI 1457 12093 1500 12111
 << end >>
